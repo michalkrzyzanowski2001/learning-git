@@ -8,3 +8,4 @@ x = 0
 for word in my_dict.values():
     x = x + len(word)
 print(f'I am buying {x} items')
+print("I am making a change to this file")
