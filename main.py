@@ -9,3 +9,8 @@ for word in my_dict.values():
     x = x + len(word)
 print(f'I am buying {x} items')
 print("I am making a change to this file")
+numbers = []
+for i in range(0,30):
+    if i %2 == 0:
+        numbers.append[i]
+        
